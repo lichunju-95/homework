@@ -1,4 +1,3 @@
-.project
-.classpath
-.settings
-.gitignore
+log.txt
+/dir1
+
