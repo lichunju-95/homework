@@ -1,1 +1,6 @@
-{"id":123}
+{
+    "message": "login success",
+    "status": 201,
+    "token": "123213123",
+    "username": "casey"
+}
